@@ -1,4 +1,4 @@
-### index.html:
+## index.html
 ```
 <!DOCTYPE html>
 <html lang = "en">
@@ -104,7 +104,7 @@ border: 5px solid black;
 </body>
 </html>
 ```
-### script.js:
+### script.js
 ```
 <style>
  h1 {
@@ -159,6 +159,6 @@ border: 5px solid black;
 </style>
 ```
 
-### Output:
+## Output
 
 ![Screenshot 2024-07-08 111743](https://github.com/PRAVEEN6616/day-5/assets/144005139/776ec75b-1e12-450b-bd9c-483a8ddf34d8)

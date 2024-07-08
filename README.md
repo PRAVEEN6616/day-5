@@ -160,4 +160,5 @@ border: 5px solid black;
 ```
 
 ### Output:
-![Screenshot (47)](https://github.com/Amrish-K/Calculator-mern/assets/130633944/77257864-f745-418b-8daa-e1be66ed997a)
+
+![Screenshot 2024-07-08 111743](https://github.com/PRAVEEN6616/day-5/assets/144005139/776ec75b-1e12-450b-bd9c-483a8ddf34d8)
